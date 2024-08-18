@@ -2,4 +2,4 @@ I script simple hacks for Roblox 😀
 
 
 
-![yaah](https://github.com/user-attachments/assets/843b4383-7ee2-4d20-b1e3-50bd785e81c1)
+![cf3ce3b09304edd215d3a2a04de48b1e](https://github.com/user-attachments/assets/3730abd1-5289-4df3-a743-62455af98f9d)
