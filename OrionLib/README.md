@@ -2,4 +2,6 @@
 
 [Orion Lib Documentation](https://github.com/shlexware/Orion/blob/main/Documentation.md)
 
+[Orion Lib Source](https://github.com/shlexware/Orion/blob/main/source)
+
 ![image](https://github.com/user-attachments/assets/bdc44462-2b95-488d-834d-f31ca1538891)
