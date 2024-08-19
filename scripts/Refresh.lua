@@ -10,7 +10,7 @@ local connection
 connection = plr.CharacterAdded:Connect(function(char)
     local humanoidRootPart = char:WaitForChild("HumanoidRootPart")
 
-    repeat wait() until humanoidRootPart.Parent ~= nil
+    repeat task.wait() until humanoidRootPart.Parent ~= nil
 
     humanoidRootPart.CFrame = CFrame.new(lastPos)
     
