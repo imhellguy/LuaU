@@ -1,11 +1,12 @@
-_G.Api = game:HttpGet("https://pastebin.com/raw/12414") -- Pastebin RAW Link
-_G.Discord = "discord.gg/12345678" -- Your discord
-if G_Api ~= "false" then -- if false, then continue, else script expired!
+_G.Api = game:HttpGet("https://pastebin.com/raw/12345")
+_G.Discord = "discord.gg/12345"
+if _G.Api ~= "false" then
     game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "Script Expired!",
+        Title = "Expired!",
         Text = _G.Discord,
-        Duration = 5,
+        Duration = 3,
         Button1 = "Copy Discord"
     })
-    return setclipboard(_G.Discord)
+    setclipboard(_G.Discord)
+    return
 end
