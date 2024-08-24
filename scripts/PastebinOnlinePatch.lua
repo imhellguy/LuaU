@@ -1,3 +1,4 @@
+-- It works if: Delete the pastebin or edit from "false" to "true".
 _G.Api = game:HttpGet("https://pastebin.com/raw/12345")
 _G.Discord = "discord.gg/12345"
 if _G.Api ~= "false" then
